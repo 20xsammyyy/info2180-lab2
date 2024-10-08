@@ -66,14 +66,14 @@ body {
 .blog-image-left {
     float: left;
     margin: 15px 0;
-    width: 70px;
+    width: 85px;
     height: auto;
 }
 
 .blog-image-right {
     float: right;
     margin: 15px;
-    width: 70px;
+    width: 75px;
     height: auto;
 }
 
